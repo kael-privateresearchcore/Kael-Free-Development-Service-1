@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 FREE Development Service – Limited 10‑Day Offer
+# 🚀 FREE Development Service
 
 ### 🔬 Kael‑Private Research Core (Myanmar)
 
@@ -19,7 +19,7 @@
 
 ## 📋 Overview
 
-For the next **10 days**, Kael‑Private Research Core is offering **completely free development services** for small‑scale software projects. This initiative aims to support developers, students, startups, and tech enthusiasts who need professional assistance but lack resources.
+Kael‑Private Research Core is offering **completely free development services** for small‑scale software projects. This initiative aims to support developers, students, startups, and tech enthusiasts who need professional assistance but lack resources.
 
 ---
 
@@ -34,8 +34,7 @@ For the next **10 days**, Kael‑Private Research Core is offering **completely 
 | **🧩 AI & LLM Integration** | ChatGPT/Claude APIs, prompt engineering, simple AI tools |
 | **🔧 Code Assistance** | Debugging, refactoring, project structuring, code reviews |
 
-> ✅ **Small projects only** – typically a few days of effort per project.  
-> ⏳ **Offer valid for 10 days** from today – limited slots available.
+> ✅ **Small projects only** – typically a few times of effort per project.
 
 ---
 
@@ -66,8 +65,8 @@ We believe in **open knowledge** and **community growth**. This free service all
 | Contact Method | Link / Address |
 |----------------|----------------|
 | **Telegram Channel** | [@kael_privateresearchcore](https://t.me/kael_privateresearchcore) |
-| **Founder (Telegram)** | [@founder_research_core](https://t.me/founder_research_core) |
-| **Email** | [kael.privateresearchcore@gmail.com](mailto:kael.privateresearchcore@gmail.com) |
+| **Founder (Telegram)** | [@kaelion_kprc](https://t.me/kaelion_kprc) |
+| **Email** | [kael.privateresearchcore@gmail.com](mailto:kael-privateresearchcore@hotmail.com) |
 | **Official Website** | [kaelprivateresearchcore.dpdns.org](https://kaelprivateresearchcore.dpdns.org) |
 
 ---
@@ -89,6 +88,6 @@ We believe in **open knowledge** and **community growth**. This free service all
 
 ---
 
-<sub>© 2025 Kael‑Private Research Core. This offer is time‑limited and may be withdrawn without prior notice.</sub>
+<sub>© 2026 Kael‑Private Research Core. This offer is time‑limited and may be withdrawn without prior notice.</sub>
 
 </div>
