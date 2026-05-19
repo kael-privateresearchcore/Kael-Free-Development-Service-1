@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 FREE Development Service – Limited 10‑Day Offer
+# 🚀 FREE Development Service
 
 ### 🔬 Kael‑Private Research Core (Myanmar)
 
@@ -66,7 +66,7 @@ We believe in **open knowledge** and **community growth**. This free service all
 | Contact Method | Link / Address |
 |----------------|----------------|
 | **Telegram Channel** | [@kael_privateresearchcore](https://t.me/kael_privateresearchcore) |
-| **Founder (Telegram)** | [@founder_research_core](https://t.me/founder_research_core) |
+| **Founder (Telegram)** | [@kaelion_kprc](https://t.me/kaelion_kprc) |
 | **Email** | [kael.privateresearchcore@gmail.com](mailto:kael.privateresearchcore@gmail.com) |
 | **Official Website** | [kaelprivateresearchcore.dpdns.org](https://kaelprivateresearchcore.dpdns.org) |
 
